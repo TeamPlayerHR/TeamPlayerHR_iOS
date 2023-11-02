@@ -1,0 +1,241 @@
+{
+  "identifier" : "A6476616",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "70D1D5D2",
+      "localizations" : [
+        {
+          "description" : "Buy Questionaire and Invite your freinds.",
+          "displayName" : "Questionnaire ",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ChwatechSolutions.questionnaire1",
+      "referenceName" : "Purchase 1 Questionnaire",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "D595F357",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Buy 5 Questionnaire",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ChwatechSolutions.questionnaire5",
+      "referenceName" : "Purchase 5 Questionnaires",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "3A50E32B",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ChwatechSolutions.questionnaire10",
+      "referenceName" : "Purchase 10 Questionnaires",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "14.99",
+      "familyShareable" : false,
+      "internalID" : "8C79F7B5",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ChwatechSolutions.questionnaire15",
+      "referenceName" : "Purchase 15 Questionnaires",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "24.99",
+      "familyShareable" : false,
+      "internalID" : "0E57A44C",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ChwatechSolutions.questionnaire25",
+      "referenceName" : "Purchase 25 Questionnaires",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "78D7701C",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ChwatechSolutions.questionnaire50",
+      "referenceName" : "Purchase 50 Questionnaires",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "74.99",
+      "familyShareable" : false,
+      "internalID" : "729F2073",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ChwatechSolutions.questionnaire75",
+      "referenceName" : "Purchase 75 Questionnaires",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "99.99",
+      "familyShareable" : false,
+      "internalID" : "64F12A93",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ChwatechSolutions.questionnaire100",
+      "referenceName" : "Purchase 100 Questionnaires",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A90165E2",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ChwatechSolutions.payPerClick",
+      "referenceName" : "Pay per Click",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "499.99",
+      "familyShareable" : false,
+      "internalID" : "4B39A497",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ChwatechSolutions.questionnaire500",
+      "referenceName" : "Purchase 500 Questionnaires",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "9F2B67AD",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.ChwatechSolutions.newUserPlan",
+      "referenceName" : "New User Plan",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "13ADE3FA",
+      "localizations" : [
+
+      ],
+      "name" : "Monthly",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "99.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "F7C89F11",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Enjoy Uninterrupted features for 1 Month",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.ChwatechSolutions.monthlySubscription",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly Subscription",
+          "subscriptionGroupID" : "13ADE3FA",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "1099.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "DC2C2C4E",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Enjoy Uninterrupted features for 1 Year",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.ChwatechSolutions.annualSubscription",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Annual Subscription",
+          "subscriptionGroupID" : "13ADE3FA",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}

@@ -1,0 +1,16 @@
+${PODS_ROOT}/Target Support Files/Pods-TeamPlayer/Pods-TeamPlayer-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/BRYXBanner/BRYXBanner.framework
+${BUILT_PRODUCTS_DIR}/Braintree/Braintree.framework
+${PODS_ROOT}/Braintree/Frameworks/CardinalMobile.framework
+${BUILT_PRODUCTS_DIR}/BraintreeDropIn/BraintreeDropIn.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SideMenu/SideMenu.framework
+${BUILT_PRODUCTS_DIR}/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/Toast-Swift/Toast_Swift.framework
+${BUILT_PRODUCTS_DIR}/iOSDropDown/iOSDropDown.framework
+${BUILT_PRODUCTS_DIR}/youtube-ios-player-helper/youtube_ios_player_helper.framework
